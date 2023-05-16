@@ -17,8 +17,14 @@ jobs:
     steps:
     - uses: actions/checkout@v3
 
+    - name: Archive Release
+      uses: thedoctor0/zip-release@0.7.1
+      with:
+        type: 'zip'
+        filename: 'release.zip'
+        exclusions: '*.git* *.github/*'
     - name: Release
       uses: softprops/action-gh-release@v1
       with:
         tag_name: v.${{ github.run_number }}
-        files: /home/runner/work/resourcePack/resourcePack/**
+        files: release.zip
