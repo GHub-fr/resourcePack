@@ -23,4 +23,4 @@ jobs:
         tag_name: v.${{ github.run_number }}
         files: |
           /home/runner/work/resourcePack/resourcePack/pack.mcmeta
-          /home/runner/work/resourcePack/resourcePack/assets/
+          /home/runner/work/resourcePack/resourcePack/assets/*
