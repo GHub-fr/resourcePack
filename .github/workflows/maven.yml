@@ -21,4 +21,4 @@ jobs:
       uses: softprops/action-gh-release@v1
       with:
         tag_name: v.${{ github.run_number }}
-        files: /home/runner/work/resourcePack/resourcePack/*
+        files: /home/runner/work/resourcePack/resourcePack/**
