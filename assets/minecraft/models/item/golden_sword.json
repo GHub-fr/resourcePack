@@ -1,1 +1,1 @@
-{"parent":"minecraft:item/handheld","textures":{"layer0":"minecraft:item/golden_sword"},"overrides":[{"predicate":{"custom_model_data":1},"model":"itemsadder:item/revolver"},{"predicate":{"custom_model_data":2},"model":"itemsadder:item/ak47"}]}
+{"parent":"minecraft:item/handheld","textures":{"layer0":"minecraft:item/golden_sword"},"overrides":[{"predicate":{"custom_model_data":1},"model":"ghub:item/revolver"},{"predicate":{"custom_model_data":2},"model":"ghub:item/ak47"},{"predicate":{"custom_model_data":3},"model":"ghub:item/shotgun"}]}
