@@ -39,7 +39,7 @@
         {
             "file": "ghub:font/grade/admin.png",
             "chars": [
-                "\ue0241"
+                "\ue241"
             ],
             "height": 9,
             "ascent": 8,
@@ -48,7 +48,7 @@
         {
             "file": "ghub:font/grade/beta.png",
             "chars": [
-                "\ue0242"
+                "\ue242"
             ],
             "height": 9,
             "ascent": 8,
@@ -57,7 +57,7 @@
         {
             "file": "ghub:font/grade/builder.png",
             "chars": [
-                "\ue0243"
+                "\ue243"
             ],
             "height": 9,
             "ascent": 8,
@@ -66,7 +66,7 @@
         {
             "file": "ghub:font/grade/joueur.png",
             "chars": [
-                "\ue0244"
+                "\ue244"
             ],
             "height": 9,
             "ascent": 8,
@@ -75,7 +75,7 @@
         {
             "file": "ghub:font/grade/mod.png",
             "chars": [
-                "\ue0245"
+                "\ue245"
             ],
             "height": 9,
             "ascent": 8,
@@ -84,7 +84,7 @@
         {
             "file": "ghub:font/grade/vip.png",
             "chars": [
-                "\ue0246"
+                "\ue246"
             ],
             "height": 9,
             "ascent": 8,
@@ -93,7 +93,7 @@
         {
             "file": "ghub:font/grade/vipplus.png",
             "chars": [
-                "\ue0247"
+                "\ue247"
             ],
             "height": 9,
             "ascent": 8,
@@ -102,7 +102,7 @@
         {
             "file": "ghub:font/grade/youtube.png",
             "chars": [
-                "\ue0248"
+                "\ue248"
             ],
             "height": 9,
             "ascent": 8,
