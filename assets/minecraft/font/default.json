@@ -1,78 +1,6 @@
 {
     "providers": [
         {
-            "file": "ghub:font/grade/admin.png",
-            "chars": [
-                "\ue021"
-            ],
-            "height": 9,
-            "ascent": 8,
-            "type": "bitmap"
-        },
-        {
-            "file": "ghub:font/grade/beta.png",
-            "chars": [
-                "\ue022"
-            ],
-            "height": 9,
-            "ascent": 8,
-            "type": "bitmap"
-        },
-        {
-            "file": "ghub:font/grade/builder.png",
-            "chars": [
-                "\ue023"
-            ],
-            "height": 9,
-            "ascent": 8,
-            "type": "bitmap"
-        },
-        {
-            "file": "ghub:font/grade/joueur.png",
-            "chars": [
-                "\ue024"
-            ],
-            "height": 9,
-            "ascent": 8,
-            "type": "bitmap"
-        },
-        {
-            "file": "ghub:font/grade/mod.png",
-            "chars": [
-                "\ue025"
-            ],
-            "height": 9,
-            "ascent": 8,
-            "type": "bitmap"
-        },
-        {
-            "file": "ghub:font/grade/vip.png",
-            "chars": [
-                "\ue026"
-            ],
-            "height": 9,
-            "ascent": 8,
-            "type": "bitmap"
-        },
-        {
-            "file": "ghub:font/grade/vipplus.png",
-            "chars": [
-                "\ue027"
-            ],
-            "height": 9,
-            "ascent": 8,
-            "type": "bitmap"
-        },
-        {
-            "file": "ghub:font/grade/youtube.png",
-            "chars": [
-                "\ue028"
-            ],
-            "height": 9,
-            "ascent": 8,
-            "type": "bitmap"
-        },
-        {
             "file": "ghub:font/logo.png",
             "chars": [
                 "\ue237"
@@ -106,6 +34,78 @@
             ],
             "height": 7,
             "ascent": 6,
+            "type": "bitmap"
+        },
+        {
+            "file": "ghub:font/grade/admin.png",
+            "chars": [
+                "\ue0241"
+            ],
+            "height": 9,
+            "ascent": 8,
+            "type": "bitmap"
+        },
+        {
+            "file": "ghub:font/grade/beta.png",
+            "chars": [
+                "\ue0242"
+            ],
+            "height": 9,
+            "ascent": 8,
+            "type": "bitmap"
+        },
+        {
+            "file": "ghub:font/grade/builder.png",
+            "chars": [
+                "\ue0243"
+            ],
+            "height": 9,
+            "ascent": 8,
+            "type": "bitmap"
+        },
+        {
+            "file": "ghub:font/grade/joueur.png",
+            "chars": [
+                "\ue0244"
+            ],
+            "height": 9,
+            "ascent": 8,
+            "type": "bitmap"
+        },
+        {
+            "file": "ghub:font/grade/mod.png",
+            "chars": [
+                "\ue0245"
+            ],
+            "height": 9,
+            "ascent": 8,
+            "type": "bitmap"
+        },
+        {
+            "file": "ghub:font/grade/vip.png",
+            "chars": [
+                "\ue0246"
+            ],
+            "height": 9,
+            "ascent": 8,
+            "type": "bitmap"
+        },
+        {
+            "file": "ghub:font/grade/vipplus.png",
+            "chars": [
+                "\ue0247"
+            ],
+            "height": 9,
+            "ascent": 8,
+            "type": "bitmap"
+        },
+        {
+            "file": "ghub:font/grade/youtube.png",
+            "chars": [
+                "\ue0248"
+            ],
+            "height": 9,
+            "ascent": 8,
             "type": "bitmap"
         }
     ]
