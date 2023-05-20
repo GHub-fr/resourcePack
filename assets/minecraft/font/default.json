@@ -1,14 +1,112 @@
-{"providers":[
-{"file":"ghub:font/tags/admin.png","chars":["\ue021"],"height":9,"ascent":8,"type":"bitmap"},
-{"file":"ghub:font/tags/beta.png","chars":["\ue022"],"height":9,"ascent":8,"type":"bitmap"},
-{"file":"ghub:font/tags/builder.png","chars":["\ue023"],"height":9,"ascent":8,"type":"bitmap"},
-{"file":"ghub:font/tags/joueur.png","chars":["\ue024"],"height":9,"ascent":8,"type":"bitmap"},
-{"file":"ghub:font/tags/mod.png","chars":["\ue025"],"height":9,"ascent":8,"type":"bitmap"},
-{"file":"ghub:font/tags/vip.png","chars":["\ue026"],"height":9,"ascent":8,"type":"bitmap"},
-{"file":"ghub:font/tags/vipplus.png","chars":["\ue027"],"height":9,"ascent":8,"type":"bitmap"},
-{"file":"ghub:font/tags/youtube.png","chars":["\ue028"],"height":9,"ascent":8,"type":"bitmap"},
-{"file":"ghub:font/logo.png","chars":["\ue237"],"height":50,"ascent":75,"type":"bitmap"},
-{"file":"ghub:font/logo.png","chars":["\ue238"],"height":50,"ascent":25,"type":"bitmap"},
-{"file":"ghub:font/emoji/money.png","chars":["\ue239"],"height":7,"ascent":6,"type":"bitmap"},
-{"file":"ghub:font/emoji/heart.png","chars":["\ue240"],"height":7,"ascent":6,"type":"bitmap"}
-]}
+{
+    "providers": [
+        {
+            "file": "ghub:font/grade/admin.png",
+            "chars": [
+                "\ue021"
+            ],
+            "height": 9,
+            "ascent": 8,
+            "type": "bitmap"
+        },
+        {
+            "file": "ghub:font/grade/beta.png",
+            "chars": [
+                "\ue022"
+            ],
+            "height": 9,
+            "ascent": 8,
+            "type": "bitmap"
+        },
+        {
+            "file": "ghub:font/grade/builder.png",
+            "chars": [
+                "\ue023"
+            ],
+            "height": 9,
+            "ascent": 8,
+            "type": "bitmap"
+        },
+        {
+            "file": "ghub:font/grade/joueur.png",
+            "chars": [
+                "\ue024"
+            ],
+            "height": 9,
+            "ascent": 8,
+            "type": "bitmap"
+        },
+        {
+            "file": "ghub:font/grade/mod.png",
+            "chars": [
+                "\ue025"
+            ],
+            "height": 9,
+            "ascent": 8,
+            "type": "bitmap"
+        },
+        {
+            "file": "ghub:font/grade/vip.png",
+            "chars": [
+                "\ue026"
+            ],
+            "height": 9,
+            "ascent": 8,
+            "type": "bitmap"
+        },
+        {
+            "file": "ghub:font/grade/vipplus.png",
+            "chars": [
+                "\ue027"
+            ],
+            "height": 9,
+            "ascent": 8,
+            "type": "bitmap"
+        },
+        {
+            "file": "ghub:font/grade/youtube.png",
+            "chars": [
+                "\ue028"
+            ],
+            "height": 9,
+            "ascent": 8,
+            "type": "bitmap"
+        },
+        {
+            "file": "ghub:font/logo.png",
+            "chars": [
+                "\ue237"
+            ],
+            "height": 50,
+            "ascent": 75,
+            "type": "bitmap"
+        },
+        {
+            "file": "ghub:font/logo.png",
+            "chars": [
+                "\ue238"
+            ],
+            "height": 50,
+            "ascent": 25,
+            "type": "bitmap"
+        },
+        {
+            "file": "ghub:font/emoji/money.png",
+            "chars": [
+                "\ue239"
+            ],
+            "height": 7,
+            "ascent": 6,
+            "type": "bitmap"
+        },
+        {
+            "file": "ghub:font/emoji/heart.png",
+            "chars": [
+                "\ue240"
+            ],
+            "height": 7,
+            "ascent": 6,
+            "type": "bitmap"
+        }
+    ]
+}
