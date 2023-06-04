@@ -109,9 +109,18 @@
             "type": "bitmap"
         },
         {
-            "file": "ghub:font/blank_menu.png",
+            "file": "ghub:font/grade/discord.png",
             "chars": [
                 "\ue249"
+            ],
+            "height": 9,
+            "ascent": 8,
+            "type": "bitmap"
+        },
+        {
+            "file": "ghub:font/blank_menu.png",
+            "chars": [
+                "\ue250"
             ],
             "height": 170,
             "ascent": 47,
