@@ -3,7 +3,7 @@
         {
             "file": "ghub:font/images/logo.png",
             "chars": [
-                "U+E237"
+                ""
             ],
             "height": 50,
             "ascent": 75,
@@ -12,7 +12,7 @@
         {
             "file": "ghub:font/images/logo.png",
             "chars": [
-                "U+E238"
+                ""
             ],
             "height": 50,
             "ascent": 25,
@@ -21,7 +21,7 @@
         {
             "file": "ghub:font/emoji/money.png",
             "chars": [
-                "U+E239"
+                ""
             ],
             "height": 7,
             "ascent": 6,
@@ -30,7 +30,7 @@
         {
             "file": "ghub:font/emoji/heart.png",
             "chars": [
-                "U+E240"
+                ""
             ],
             "height": 7,
             "ascent": 6,
@@ -39,7 +39,7 @@
         {
             "file": "ghub:font/grade/admin.png",
             "chars": [
-                "U+E241"
+                ""
             ],
             "height": 9,
             "ascent": 8,
@@ -48,7 +48,7 @@
         {
             "file": "ghub:font/grade/beta.png",
             "chars": [
-                "U+E242"
+                ""
             ],
             "height": 9,
             "ascent": 8,
@@ -57,7 +57,7 @@
         {
             "file": "ghub:font/grade/builder.png",
             "chars": [
-                "U+E243"
+                ""
             ],
             "height": 9,
             "ascent": 8,
@@ -66,7 +66,7 @@
         {
             "file": "ghub:font/grade/joueur.png",
             "chars": [
-                "U+E244"
+                ""
             ],
             "height": 9,
             "ascent": 8,
@@ -75,7 +75,7 @@
         {
             "file": "ghub:font/grade/mod.png",
             "chars": [
-                "U+E245"
+                ""
             ],
             "height": 9,
             "ascent": 8,
@@ -84,7 +84,7 @@
         {
             "file": "ghub:font/grade/vip.png",
             "chars": [
-                "U+E246"
+                ""
             ],
             "height": 9,
             "ascent": 8,
@@ -93,7 +93,7 @@
         {
             "file": "ghub:font/grade/vipplus.png",
             "chars": [
-                "U+E247"
+                ""
             ],
             "height": 9,
             "ascent": 8,
@@ -102,7 +102,7 @@
         {
             "file": "ghub:font/grade/youtube.png",
             "chars": [
-                "U+E248"
+                ""
             ],
             "height": 9,
             "ascent": 8,
@@ -111,7 +111,7 @@
         {
             "file": "ghub:font/grade/discord.png",
             "chars": [
-                "U+E249"
+                ""
             ],
             "height": 9,
             "ascent": 8,
@@ -120,7 +120,7 @@
         {
             "file": "ghub:font/images/blank_menu.png",
             "chars": [
-                "U+E250"
+                ""
             ],
             "height": 170,
             "ascent": 47,
