@@ -1,7 +1,7 @@
 {
     "providers": [
         {
-            "file": "ghub:font/logo.png",
+            "file": "ghub:font/images/logo.png",
             "chars": [
                 "\ue237"
             ],
@@ -10,7 +10,7 @@
             "type": "bitmap"
         },
         {
-            "file": "ghub:font/logo.png",
+            "file": "ghub:font/images/logo.png",
             "chars": [
                 "\ue238"
             ],
@@ -118,7 +118,7 @@
             "type": "bitmap"
         },
         {
-            "file": "ghub:font/blank_menu.png",
+            "file": "ghub:font/images/blank_menu.png",
             "chars": [
                 "\ue250"
             ],
